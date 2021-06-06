@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  transition-timing-function: ease-in;
+  transition: all 0.5s;
+}
+
+.app {
+  background-color: #111;
+}
